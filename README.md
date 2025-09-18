@@ -8,4 +8,4 @@ Hier handelt es sich um einen Säufer der im Mittelalter von Schenke zu Schenke 
 
 Biografie
 
-Talente
+[Talente](https://github.com/DasRonny/RumtopfRonny-mit-der-roten-Nase/blob/main/Talente.txt)
